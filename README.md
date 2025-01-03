@@ -1,6 +1,5 @@
-# Hi, I'm Gabor👋
+## Hi, I'm Gabor👋
 
-## About Me
 - 🌟 I'm interested a Reporting process efficiency improvement, Data-Science and Machine Learning.
 - 📈 Continuously increasing my Python analysing and Power BI model and dashboard construction skills.
 - 📊 Currently I building Statistical analysing and Reporting Dashboard models.

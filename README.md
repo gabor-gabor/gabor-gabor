@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Gabor👋
+
+## About Me
+- 🌟 I'm interested a Reporting process efficiency improvement, Data-Science and Machine Learning.
+- 📈 Continuously increasing my Python analysing and Power BI model and dashboard construction skills.
+- 📊 Currently I building Statistical analysing and Reporting Dashboard models.
+
 
 <!--
 **gabor-gabor/gabor-gabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

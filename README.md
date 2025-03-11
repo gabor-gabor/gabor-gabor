@@ -5,7 +5,7 @@
 - 📊 I'm currently improving a Reporting process efficiency.
 
 ## My Projects
-- **[II. Data Science Competition](https://https://github.com/gabor-gabor/II.-Data-Science-Competition):**
+- **[II. Data Science Competition](https://github.com/gabor-gabor/II.-Data-Science-Competition):**
   A Python & Power BI project focusing on actionable insight and efficiency improvement.
 - **[Investment Portfolio](https://github.com/gabor-gabor/Investment-Portfolio-by-Data36):**
   A Python project focusing on diversification strategies.
